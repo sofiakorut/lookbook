@@ -136,7 +136,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/blusa-floral-dark-quintess-com-amarracao-272067-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blusa-floral-dark-quintess-com-amarracao_272067_600-3-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -147,7 +147,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/blusa-quintess-preta-e-branca-com-recortes-271795-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blusa-quintess-preta-e-branca-com-recortes_271795_600-3-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -158,7 +158,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casaco-alongado-mescla-chumbo-com-bolso-quintess-272076-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casaco-alongado-mescla-chumbo-com-bolso-quintess_272076_600-3-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -169,7 +169,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casaco-cardigan-azul-quintess-em-algodao-272004-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casaco-cardigan-azul-quintess-em-algodao_272004_600-3-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -180,7 +180,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/saia-marmorizada-quintess-fenda-e-forro-curto-272619-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saia-marmorizada-quintess-fenda-e-forro-curto_272619_600-3-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -191,7 +191,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-azul-com-detalhe-floral-272544-600-4-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-azul-com-detalhe-floral_272544_600-4-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -202,7 +202,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casaco-floral-roxo-quintess-com-manga-3-4-224790-600-5-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casaco-floral-roxo-quintess-com-manga-3-4_224790_600-5-599x830.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -213,7 +213,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-risca-de-giz-com-amarracao-225846-600-3-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-risca-de-giz-com-amarracao_225846_600-3-599x830.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -269,7 +269,7 @@
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FAZER PEDIDO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IR PARA A LOJA</a></li>",
           "_tags": [
             "Theme"
           ],
