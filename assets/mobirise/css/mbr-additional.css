@@ -13,3 +13,12 @@
   font-size: 22px;
   font-family: 'Roboto Condensed', sans-serif;
 }
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#footer1-6 P {
+  color: #ffffff;
+}
