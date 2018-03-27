@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fashion-1636868-1920-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/candid-3225895-1920-1920x1520.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -54,7 +54,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">SofiaKorut</span>",
           "text": "lookbook outono/inverno 2018",
@@ -179,7 +179,8 @@
           "_anchor": "footer1-6",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         },
@@ -195,7 +196,7 @@
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IR PARA A LOJA</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span>IR PARA A LOJA</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -274,15 +275,15 @@
         {
           "_params": {
             "token": "1245937461.727bfe1.98b4c42c2bc547248e0c6eec9bce5c5e",
-            "showTitle": false,
-            "layoutGridRadio": false,
+            "showTitle": true,
+            "layoutGridRadio": true,
             "imagesPerRowGrid": "5",
             "rows": "1",
             "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": "5",
+            "spacing": "8",
+            "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
@@ -293,7 +294,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "<span style=\"font-weight: normal;\">Instagram Feed</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -302,7 +303,15 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-e"
+          "_anchor": "instagram-feed-block-e",
+          "_styles": {
+            ".inst__title": {
+              "text-align": "center"
+            },
+            ".inst__title SPAN": {
+              "font-size": "24px"
+            }
+          }
         }
       ]
     }
