@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/color-soft-dusty-2867304-1920-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fashion-2762917-1920-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -54,7 +54,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">SofiaKorut</span>",
           "text": "lookbook outono/inverno 2018",
@@ -115,10 +115,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MODA FEMININA",
+          "title": "OUTONO/INVERNO 2018",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Beleza, conforto e sofisticação pelos melhores preços.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-g\" data-toolbar=\"-mbrBtnMove\">VER COLEÇÃO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-g\" data-toolbar=\"-mbrBtnMove\">VER COLEÇÃO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMPRAR JÁ</a>",
           "_tags": [
             "Theme"
           ],
@@ -127,7 +127,7 @@
         },
         {
           "_params": {
-            "fullWidth": true,
+            "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
