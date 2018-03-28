@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/color-soft-dusty-2867304-1920-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/model-2602912-1920-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -132,7 +132,7 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
-            "showBullets": false,
+            "showBullets": true,
             "bgColor": "#ffffff",
             "images": [
               {
@@ -187,6 +187,34 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/sobretudo-quintess-verde-com-botoes-224904-600-7-599x830.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sobretudo-quintess-verde-com-botoes-224904-600-7-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/saia-marmorizada-quintess-fenda-e-forro-curto-272619-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saia-marmorizada-quintess-fenda-e-forro-curto-272619-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/saia-midi-evase-preta-quintess-cintura-alta-272665-600-5-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saia-midi-evase-preta-quintess-cintura-alta-272665-600-5-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/saia-sino-floral-laranja-quintess-225087-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saia-sino-floral-laranja-quintess-225087-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/saia-preta-transpassada-com-amarracao-quintess-271636-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saia-preta-transpassada-com-amarracao-quintess-271636-600-3-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
