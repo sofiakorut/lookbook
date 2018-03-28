@@ -21,7 +21,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.6.6"
   },
   "pages": {
@@ -118,7 +118,7 @@
           "title": "MODA FEMININA",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Beleza, conforto e sofisticação pelos melhores preços.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#slider-2\" data-toolbar=\"-mbrBtnMove\">CATEGORIAS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-g\" data-toolbar=\"-mbrBtnMove\">VER COLEÇÃO</a>",
           "_tags": [
             "Theme"
           ],
@@ -126,28 +126,70 @@
           "_anchor": "msg-box3-8"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
+            "fullWidth": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": false,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
             "bgColor": "#ffffff",
-            "slides": [
+            "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sobretudo-acinturado-preto-186407-600-4-599x830.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "center",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://sofia-korut.lojaintegrada.com.br/casacos\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CASACOS</a>",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#000000"
+                "image": "@PROJECT_PATH@/assets/images/casaco-alongado-quintess-mescla-mangas-em-cirre-225717-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casaco-alongado-quintess-mescla-mangas-em-cirre-225717-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casaco-quintess-preto-com-mangas-amplas-271869-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casaco-quintess-preto-com-mangas-amplas-271869-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-4-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-4-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jaqueta-com-babados-na-manga-terracota-quintess-305265-600-4-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-com-babados-na-manga-terracota-quintess-305265-600-4-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jaqueta-preto-e-bege-com-pelos-quintess-272548-600-5-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-preto-e-bege-com-pelos-quintess-272548-600-5-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sobretudo-acinturado-bege-186344-600-3-600x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sobretudo-acinturado-bege-186344-600-3-600x830-600x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sobretudo-quintess-marrom-305135-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sobretudo-quintess-marrom-305135-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sobretudo-quintess-verde-com-botoes-224904-600-7-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sobretudo-quintess-verde-com-botoes-224904-600-7-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -155,8 +197,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_anchor": "slider-2"
+          "_name": "gallery1",
+          "_anchor": "gallery1-g"
         },
         {
           "_params": {
@@ -212,7 +254,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:sofiakorut@gmail.com\">contato</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#instagram-feed-block-e\">instagram</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:sofiakorut@gmail.com\">contato</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -269,47 +311,6 @@
           "_styles": {
             ".mbr-header__text SPAN": {
               "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "token": "1245937461.727bfe1.98b4c42c2bc547248e0c6eec9bce5c5e",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "1",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": "5",
-            "spacing": "8",
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "<span style=\"font-weight: normal;\">Instagram Feed</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-e",
-          "_styles": {
-            ".inst__title": {
-              "text-align": "center"
-            },
-            ".inst__title SPAN": {
-              "font-size": "24px"
             }
           }
         },
