@@ -132,7 +132,7 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "images": [
               {
