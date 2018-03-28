@@ -54,7 +54,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\">SofiaKorut</span>",
           "text": "lookbook outono/inverno 2018",
@@ -127,7 +127,7 @@
         },
         {
           "_params": {
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
@@ -233,7 +233,7 @@
             "showBrand": false,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
@@ -278,8 +278,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
