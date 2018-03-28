@@ -21,7 +21,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.6.6"
   },
   "pages": {
@@ -312,6 +312,14 @@
               "font-size": "24px"
             }
           }
+        },
+        {
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-up mbr-iconfont mbr-iconfont-btn\"></span>TOP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-f"
         }
       ]
     }
