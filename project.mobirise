@@ -132,7 +132,7 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "images": [
               {
@@ -150,11 +150,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-4-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-4-599x830-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calca-skinny-com-faixas-jeans-quintess-224924-600-6-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-skinny-com-faixas-jeans-quintess-224924-600-6-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/jaqueta-com-babados-na-manga-terracota-quintess-305265-600-4-599x830.jpg",
@@ -217,7 +217,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/saia-preta-transpassada-com-amarracao-quintess-271636-600-3-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -266,7 +266,7 @@
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span>IR PARA A LOJA</a></li>",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span>LOJA</a></li>",
           "_tags": [
             "Theme"
           ],
