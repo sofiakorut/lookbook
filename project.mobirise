@@ -54,7 +54,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">SofiaKorut</span>",
           "text": "lookbook outono/inverno 2018",
@@ -87,10 +87,12 @@
               "text-align": "center"
             },
             ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "16px"
             },
             ".mbr-article P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -118,7 +120,7 @@
           "title": "OUTONO/INVERNO 2018",
           "meta": "Veja as novidades da estação.",
           "text": "<p>Beleza, conforto e sofisticação pelos melhores preços.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-g\" data-toolbar=\"-mbrBtnMove\">VER COLEÇÃO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMPRAR JÁ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-g\" data-toolbar=\"-mbrBtnMove\">VER COLEÇÃO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://sofiakorut.minestore.com.br\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMPRAR JÁ</a>",
           "_tags": [
             "Theme"
           ],
@@ -127,7 +129,7 @@
         },
         {
           "_params": {
-            "fullWidth": true,
+            "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
@@ -266,7 +268,7 @@
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://sofia-korut.lojaintegrada.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span>LOJA</a></li>",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://sofiakorut.minestore.com.br\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn-parent\"></span>LOJA</a></li>",
           "_tags": [
             "Theme"
           ],
