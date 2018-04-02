@@ -156,13 +156,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/calca-skinny-com-faixas-jeans-quintess-224924-600-6-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jaqueta-com-babados-na-manga-terracota-quintess-305265-600-4-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-com-babados-na-manga-terracota-quintess-305265-600-4-599x830-599x830.jpg",
-                "alt": "",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -175,13 +168,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/sobretudo-acinturado-bege-186344-600-3-600x830.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sobretudo-acinturado-bege-186344-600-3-600x830-600x830.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sobretudo-quintess-marrom-305135-600-3-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sobretudo-quintess-marrom-305135-600-3-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -201,25 +187,95 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/saia-midi-evase-preta-quintess-cintura-alta-272665-600-5-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/saia-midi-evase-preta-quintess-cintura-alta-272665-600-5-599x830-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calca-flare-quintess-etnica-cintura-alta-223671-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-flare-quintess-etnica-cintura-alta-223671-600-3-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/saia-sino-floral-laranja-quintess-225087-600-3-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/saia-sino-floral-laranja-quintess-225087-600-3-599x830-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calca-legging-com-tachas-douradas-preta-128872-600-5-600x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-legging-com-tachas-douradas-preta-128872-600-5-600x830-600x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/saia-preta-transpassada-com-amarracao-quintess-271636-600-3-599x830.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/saia-preta-transpassada-com-amarracao-quintess-271636-600-3-599x830-599x830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/colete-jeans-quintess-com-bolsos-225074-600-6-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/colete-jeans-quintess-com-bolsos-225074-600-6-599x830-599x830.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/colete-matelasse-com-ziper-marrom-219095-600-4-600x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/colete-matelasse-com-ziper-marrom-219095-600-4-600x830-600x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vestido-listrado-com-capuz-220695-600-3-600x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vestido-listrado-com-capuz-220695-600-3-600x830-600x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vestido-longo-com-fenda-preto-148323-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vestido-longo-com-fenda-preto-148323-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-5-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jaqueta-bomber-quintess-em-cetim-floral-305283-600-5-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/calca-jeans-quintess-com-cintura-media-272524-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-jeans-quintess-com-cintura-media-272524-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/calca-pantacourt-com-cintura-alta-jeans-quintess-271562-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-pantacourt-com-cintura-alta-jeans-quintess-271562-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-jeans-degrade-com-botoes-271940-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vestido-quintess-jeans-degrade-com-botoes-271940-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vestido-quintess-chemisier-jeans-escuro-225690-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vestido-quintess-chemisier-jeans-escuro-225690-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/calca-clochard-quintess-em-jeans-azul-com-bolsos-272558-600-3-599x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-clochard-quintess-em-jeans-azul-com-bolsos-272558-600-3-599x830-599x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/calca-reta-classica-preta-146467-600-4-600x830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calca-reta-classica-preta-146467-600-4-600x830-600x830.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
