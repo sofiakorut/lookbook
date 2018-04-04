@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofia Korut - Loja",
-    "currentPage": "lookbook.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -25,7 +25,7 @@
     "versionPublish": "4.6.6"
   },
   "pages": {
-    "lookbook.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Sofia Korut | Lookbook Outono/Inverno 2018",
